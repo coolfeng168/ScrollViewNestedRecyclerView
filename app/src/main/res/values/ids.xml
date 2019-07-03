@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--ScrollViewNestedRecyclerView-->
+    <item name="snr_top_view" type="id" />
+    <item name="snr_recycler_view" type="id" />
+</resources>
